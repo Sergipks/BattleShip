@@ -1,0 +1,15 @@
+/Users/sergipks/Documents/2DAMDAW/Interfaces DAM/ProyectosVS/BattleShip/BattleShip/bin/Debug/net7.0/BattleShip
+/Users/sergipks/Documents/2DAMDAW/Interfaces DAM/ProyectosVS/BattleShip/BattleShip/bin/Debug/net7.0/BattleShip.deps.json
+/Users/sergipks/Documents/2DAMDAW/Interfaces DAM/ProyectosVS/BattleShip/BattleShip/bin/Debug/net7.0/BattleShip.runtimeconfig.json
+/Users/sergipks/Documents/2DAMDAW/Interfaces DAM/ProyectosVS/BattleShip/BattleShip/bin/Debug/net7.0/BattleShip.dll
+/Users/sergipks/Documents/2DAMDAW/Interfaces DAM/ProyectosVS/BattleShip/BattleShip/bin/Debug/net7.0/BattleShip.pdb
+/Users/sergipks/Documents/2DAMDAW/Interfaces DAM/ProyectosVS/BattleShip/BattleShip/obj/Debug/net7.0/BattleShip.csproj.AssemblyReference.cache
+/Users/sergipks/Documents/2DAMDAW/Interfaces DAM/ProyectosVS/BattleShip/BattleShip/obj/Debug/net7.0/BattleShip.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sergipks/Documents/2DAMDAW/Interfaces DAM/ProyectosVS/BattleShip/BattleShip/obj/Debug/net7.0/BattleShip.AssemblyInfoInputs.cache
+/Users/sergipks/Documents/2DAMDAW/Interfaces DAM/ProyectosVS/BattleShip/BattleShip/obj/Debug/net7.0/BattleShip.AssemblyInfo.cs
+/Users/sergipks/Documents/2DAMDAW/Interfaces DAM/ProyectosVS/BattleShip/BattleShip/obj/Debug/net7.0/BattleShip.csproj.CoreCompileInputs.cache
+/Users/sergipks/Documents/2DAMDAW/Interfaces DAM/ProyectosVS/BattleShip/BattleShip/obj/Debug/net7.0/BattleShip.dll
+/Users/sergipks/Documents/2DAMDAW/Interfaces DAM/ProyectosVS/BattleShip/BattleShip/obj/Debug/net7.0/refint/BattleShip.dll
+/Users/sergipks/Documents/2DAMDAW/Interfaces DAM/ProyectosVS/BattleShip/BattleShip/obj/Debug/net7.0/BattleShip.pdb
+/Users/sergipks/Documents/2DAMDAW/Interfaces DAM/ProyectosVS/BattleShip/BattleShip/obj/Debug/net7.0/BattleShip.genruntimeconfig.cache
+/Users/sergipks/Documents/2DAMDAW/Interfaces DAM/ProyectosVS/BattleShip/BattleShip/obj/Debug/net7.0/ref/BattleShip.dll
