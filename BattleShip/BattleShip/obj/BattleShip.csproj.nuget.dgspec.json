@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/sergipks/Documents/2DAMDAW/Interfaces DAM/ProyectosVS/BattleShip/BattleShip/BattleShip.csproj": {}
+    "/Users/sergipks/Documents/2DAMDAW/Interfaces DAM/ProyectosVS/BattleShip/BattleShip/BattleShip/BattleShip.csproj": {}
   },
   "projects": {
-    "/Users/sergipks/Documents/2DAMDAW/Interfaces DAM/ProyectosVS/BattleShip/BattleShip/BattleShip.csproj": {
+    "/Users/sergipks/Documents/2DAMDAW/Interfaces DAM/ProyectosVS/BattleShip/BattleShip/BattleShip/BattleShip.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/sergipks/Documents/2DAMDAW/Interfaces DAM/ProyectosVS/BattleShip/BattleShip/BattleShip.csproj",
+        "projectUniqueName": "/Users/sergipks/Documents/2DAMDAW/Interfaces DAM/ProyectosVS/BattleShip/BattleShip/BattleShip/BattleShip.csproj",
         "projectName": "BattleShip",
-        "projectPath": "/Users/sergipks/Documents/2DAMDAW/Interfaces DAM/ProyectosVS/BattleShip/BattleShip/BattleShip.csproj",
+        "projectPath": "/Users/sergipks/Documents/2DAMDAW/Interfaces DAM/ProyectosVS/BattleShip/BattleShip/BattleShip/BattleShip.csproj",
         "packagesPath": "/Users/sergipks/.nuget/packages/",
-        "outputPath": "/Users/sergipks/Documents/2DAMDAW/Interfaces DAM/ProyectosVS/BattleShip/BattleShip/obj/",
+        "outputPath": "/Users/sergipks/Documents/2DAMDAW/Interfaces DAM/ProyectosVS/BattleShip/BattleShip/BattleShip/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/Users/sergipks/Library/Application Support/Godot/mono/GodotNuGetFallbackFolder"
@@ -42,6 +42,12 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "log4net": {
+              "target": "Package",
+              "version": "[2.0.15, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

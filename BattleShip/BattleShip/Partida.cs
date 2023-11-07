@@ -9,6 +9,7 @@ class Partida
     // Lanza la partida principal
     public void Lanzar()
     {
+        Configuracion.log.Info("Partida lanzada");
         Jugador usuario = new Jugador();
         Jugador IA = new Jugador(true);
         bool finPartida = false;

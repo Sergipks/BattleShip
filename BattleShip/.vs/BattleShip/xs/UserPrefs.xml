@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{4DD69E58-74B6-4A6C-B7D6-EE121CA2B7C9}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BattleShip/Configuracion.cs">
+    <Files>
+      <File FileName="BattleShip/log4net.config" Line="1" Column="1" />
+      <File FileName="BattleShip/BattleShip.cs" Line="1" Column="1" />
+      <File FileName="BattleShip/Partida.cs" Line="1" Column="1" />
+      <File FileName="BattleShip/Configuracion.cs" Line="13" Column="9" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BattleShip">
+            <Node name="BattleShip" expanded="True">
+              <Node name="Configuracion.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.BattleShip PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
